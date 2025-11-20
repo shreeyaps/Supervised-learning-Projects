@@ -1,0 +1,1 @@
+# We aim to predict the salary of an employee based on their level/experience in an organization. The relationship between experience and salary is non-linear, making Linear Regression insufficient. Therefore, we apply Polynomial Regression to model this non-linear relationship more accurately.
